@@ -1,0 +1,25 @@
+#class tools::wcsv::ntuple
+#title Target deposited energy
+#separator 44
+#vector_separator 59
+#column double Target
+94.4269
+38.4896
+85.0456
+237.389
+65.3667
+18.8589
+64.399
+78.47
+28.0965
+59.9432
+66.1997
+51.3152
+28.0491
+21.1905
+23.0636
+65.6788
+50.1891
+98.355
+63.7942
+36.4188

@@ -1,0 +1,25 @@
+#class tools::wcsv::ntuple
+#title Shield deposited energy
+#separator 44
+#vector_separator 59
+#column double Shield
+194.612
+255.348
+211.888
+54.5076
+223.484
+213.587
+227.34
+215.256
+259.763
+237.59
+224.882
+245.065
+268.532
+245.909
+269.746
+215.352
+229.88
+196.503
+228.721
+255.652
